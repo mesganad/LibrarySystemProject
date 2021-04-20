@@ -1,0 +1,27 @@
+#top-container{
+     -fx-background-color:  #F3F3F3;
+}
+
+.label {
+ -fx-text-fill: #203647;
+
+}
+#lib1{
+	-fx-font: bold 20pt "cursive";
+	-fx-text-fill: #707070;
+	
+	}
+#lib2{
+	-fx-font: bold 20pt "Trajan Pro";
+	
+}
+#login{
+	-fx-font: normal 20pt "Trajan Pro";
+
+}
+
+
+#font-button {
+    -fx-font: bold italic 20pt "Arial";
+    -fx-effect: dropshadow( one-pass-box , black , 8 , 0.0 , 2 , 0 );
+}
